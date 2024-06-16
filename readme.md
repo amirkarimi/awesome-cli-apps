@@ -312,6 +312,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 - [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
+- [term-ascii-diagram](https://github.com/amirkarimi/term-ascii-diagram) - Build ASCII diagrams in the terminal using keyboard.
 
 ### Calendars
 
